@@ -1,0 +1,15 @@
+D:\NT\DerekHaromszog\Haromszogek\Haromszogek\bin\Debug\Haromszogek.exe.config
+D:\NT\DerekHaromszog\Haromszogek\Haromszogek\bin\Debug\Haromszogek.exe
+D:\NT\DerekHaromszog\Haromszogek\Haromszogek\bin\Debug\Haromszogek.pdb
+D:\NT\DerekHaromszog\Haromszogek\Haromszogek\obj\Debug\Haromszogek.csprojAssemblyReference.cache
+D:\NT\DerekHaromszog\Haromszogek\Haromszogek\obj\Debug\MainWindow.g.cs
+D:\NT\DerekHaromszog\Haromszogek\Haromszogek\obj\Debug\App.g.cs
+D:\NT\DerekHaromszog\Haromszogek\Haromszogek\obj\Debug\Haromszogek_MarkupCompile.cache
+D:\NT\DerekHaromszog\Haromszogek\Haromszogek\obj\Debug\Haromszogek_MarkupCompile.lref
+D:\NT\DerekHaromszog\Haromszogek\Haromszogek\obj\Debug\MainWindow.baml
+D:\NT\DerekHaromszog\Haromszogek\Haromszogek\obj\Debug\Haromszogek.g.resources
+D:\NT\DerekHaromszog\Haromszogek\Haromszogek\obj\Debug\Haromszogek.Properties.Resources.resources
+D:\NT\DerekHaromszog\Haromszogek\Haromszogek\obj\Debug\Haromszogek.csproj.GenerateResource.cache
+D:\NT\DerekHaromszog\Haromszogek\Haromszogek\obj\Debug\Haromszogek.exe
+D:\NT\DerekHaromszog\Haromszogek\Haromszogek\obj\Debug\Haromszogek.pdb
+D:\NT\DerekHaromszog\Haromszogek\Haromszogek\obj\Debug\Haromszogek.csproj.CoreCompileInputs.cache

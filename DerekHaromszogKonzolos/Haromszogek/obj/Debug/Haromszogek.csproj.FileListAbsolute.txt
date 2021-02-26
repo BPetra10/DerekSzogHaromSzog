@@ -1,0 +1,7 @@
+D:\NT\Haromszogek\Haromszogek\bin\Debug\Haromszogek.exe.config
+D:\NT\Haromszogek\Haromszogek\bin\Debug\Haromszogek.exe
+D:\NT\Haromszogek\Haromszogek\bin\Debug\Haromszogek.pdb
+D:\NT\Haromszogek\Haromszogek\obj\Debug\Haromszogek.csprojAssemblyReference.cache
+D:\NT\Haromszogek\Haromszogek\obj\Debug\Haromszogek.exe
+D:\NT\Haromszogek\Haromszogek\obj\Debug\Haromszogek.pdb
+D:\NT\Haromszogek\Haromszogek\obj\Debug\Haromszogek.csproj.CoreCompileInputs.cache
